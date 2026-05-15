@@ -351,5 +351,5 @@ Contributions are welcome! Please feel free to submit a Pull Request.
 ---
 
 <p align="center">
-  Built with ❤️ by Ana Vukojevic
+  Built with ❤️ by aeth-lab
 </p>
